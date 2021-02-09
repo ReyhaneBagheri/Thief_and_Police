@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1612861681 source:e:\file\thief_and_police_project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<stdbool.h>
+	<windows.h>
+
